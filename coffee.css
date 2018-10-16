@@ -1,0 +1,16 @@
+body {
+  background-color:beige;
+  height:100%;
+  width:100%;
+}
+
+.searchOrder {
+  margin-bottom:20%;
+  height:20%;
+  padding:50px;
+}
+
+.createNewOrder {
+  height:20%;
+  padding:50px;
+}
